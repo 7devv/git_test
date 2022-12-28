@@ -1,0 +1,2 @@
+Hello World
+Git and GitHub are both pretty cool!
